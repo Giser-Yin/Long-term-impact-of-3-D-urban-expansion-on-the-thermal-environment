@@ -1,6 +1,0 @@
-This study used published and publicly available remote sensing and GIS data from several sources. 
-The LST data is available from MOD11A2 (https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD11A 2). 
-The JRC data is available from the European Commission under the Copernicus program (https://global-surface-water.appspot.com). 
-The ISA data is available from the GAIA dataset (https://data-starcloud.pcl.ac.cn/iearthdata/). 
-The JRC data is available from the CNBH product (https://zenodo.org/records/7923866). 
-The DEM data is available from the NASADEM product (https://lpdaac.usgs.gov/products/nasadem _hgtv001/).
